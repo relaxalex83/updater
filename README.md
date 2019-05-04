@@ -6,7 +6,7 @@
 - Download App for Legacy boot - updater_legacy.zip
 
 # What does the utility compare and automatically update?
-# Что сравнивает и автоматически обновляет утилита?
+Что сравнивает и автоматически обновляет утилита?
 # BOOT
 - BOOTX64.efi - bootloader Clover (UEFI)
 # CLOVER
@@ -41,4 +41,4 @@
 - WhateverGreen.kext
 
 # If the file is not in the bootloader, it will not be updated.
-# Если файл отсутствует в загрузчике, он не будет обновлён
+Если файл отсутствует в загрузчике, он не будет обновлён
