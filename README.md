@@ -1,9 +1,10 @@
-# updater
+# Updater
 # Simple update bootloader Clover
 
 - Download App for UEFI boot - updater.zip
 - Download App for Legacy boot - updater_legacy.zip
 
+<<<<<<< HEAD
 # What updates the utility automatically?
 # BOOT
 - BOOTX64.efi - bootloader Clover (UEFI)
@@ -23,3 +24,6 @@
 - IntelMausiEthernet.kext
 - Lilu.kext
 - WhateverGreen.kext
+=======
+
+>>>>>>> 79ec6a3d250f6cb613e12ca8cd77749f8de8d6c6
