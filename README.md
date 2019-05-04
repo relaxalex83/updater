@@ -9,14 +9,13 @@
 - BOOTX64.efi - bootloader Clover (UEFI)
 # CLOVER
 - CLOVERX64.efi - bootloader Clover (Legacy)
-## drivers64UEFI - folder containing drivers for the bootloader
-- ApfsDriverLoader.efi - модуль для запуска текущего apfs.efi, что лежит в запускаемой системе
+## drivers64UEFI
+- ApfsDriverLoader.efi
 - AptioMemoryFix.efi
 - DataHubDxe-64.efi
 - FSInject-64.efi
 - HFSPlus-64.efi
-## kexts
-### Other
+## kexts\Other
 - AppleALC.kext
 - FakeSMC.kext
 - IntelCPUMonitor.kext
