@@ -1,6 +1,6 @@
 # Updater
 # Simple update bootloader Clover
-# Утилита автоматического обновления загрузчика Clover
+Утилита автоматического обновления загрузчика Clover
 
 - Download App for UEFI boot - updater.zip
 - Download App for Legacy boot - updater_legacy.zip
