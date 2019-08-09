@@ -16,7 +16,7 @@
 - ApfsDriverLoader.efi
 - FSInject.efi
 - VBoxHfs.efi
-### BIOS
+### UEFI
 - ApfsDriverLoader.efi
 - AptioMemoryFix.efi
 - DataHubDxe.efi
