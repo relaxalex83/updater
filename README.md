@@ -1,12 +1,12 @@
 # Updater
-# Simple update bootloader Clover
-Утилита автоматического обновления загрузчика Clover
+## Simple update bootloader Clover
+### Утилита автоматического обновления загрузчика Clover
 
 - Download App for UEFI boot - updater.zip
 - Download App for Legacy boot - updater_legacy.zip
 
-# What does the utility compare and automatically update?
-Что сравнивает и автоматически обновляет утилита?
+## What does the utility compare and automatically update?
+### Что сравнивает и автоматически обновляет утилита?
 # BOOT
 - BOOTX64.efi - bootloader Clover (UEFI)
 # CLOVER
@@ -20,12 +20,14 @@
 ## kexts\Other
 - AirportBrcmFixup.kext
 - AppleALC.kext
+- AtherosE2200Ethernet.kext
 - FakeSMC.kext
 - GeforceSensor.kext
 - IntelCPUMonitor.kext
 - IntelMausiEthernet.kext
 - Lilu.kext
 - RadeonMonitor.kext
+- RealtekRTL8111.kext
 - SMCBatteryManager.kext
 - SMCProcessor.kext
 - USBInjectAll.kext
@@ -39,5 +41,5 @@
 - VoodooTSCSync.kext
 - WhateverGreen.kext
 
-# If the file is not in the bootloader, it will not be updated.
-Если файл отсутствует в загрузчике, он не будет обновлён.
+## If the file is not in the bootloader, it will not be updated.
+### Если файл отсутствует в загрузчике, он не будет обновлён.
