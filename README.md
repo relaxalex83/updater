@@ -5,7 +5,7 @@
 - Download App for UEFI boot - updater.zip
 - Download App for Legacy boot - updater_legacy.zip
 
-## What does the utility compare and automatically update?
+### What does the utility compare and automatically update?
 ### Что сравнивает и автоматически обновляет утилита?
 ## BOOT
 - BOOTX64.efi - bootloader Clover (UEFI)
