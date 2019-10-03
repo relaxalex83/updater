@@ -1,6 +1,6 @@
 # Updater
-### Our Progect:
-#### Site - [link](http://ihackline.com)
+### Our Progects:
+#### Hackintosh Builds - [link](http://ihackline.com)
 #### VK - [link](https://vk.com/ustanovkamacos)
 ## Simple update bootloader Clover
 ### Утилита автоматического обновления загрузчика Clover
