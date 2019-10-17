@@ -23,6 +23,7 @@
 - ApfsDriverLoader.efi
 - AptioMemoryFix.efi
 - DataHubDxe.efi
+- EmuVariableUefi.efi
 - FSInject.efi
 - VBoxHfs.efi
 ## kexts\Other
