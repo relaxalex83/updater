@@ -30,6 +30,7 @@
 - AirportBrcmFixup.kext
 - AppleALC.kext
 - AtherosE2200Ethernet.kext
+- BT4LEContinuityFixup.kext
 - FakeSMC.kext
 - GeforceSensor.kext
 - IntelCPUMonitor.kext
@@ -39,13 +40,8 @@
 - RealtekRTL8111.kext
 - SMCBatteryManager.kext
 - SMCProcessor.kext
-- USBInjectAll.kext
 - VirtualSMC.kext
 - VoodooBatterySMC.kext
-- VoodooI2C.kext
-- VoodooI2CELAN.kext
-- VoodooI2CFTE.kext
-- VoodooI2CHID.kext
 - VoodooPS2Controller.kext
 - VoodooTSCSync.kext
 - WhateverGreen.kext
