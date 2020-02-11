@@ -23,7 +23,6 @@
 - ApfsDriverLoader.efi
 - AptioMemoryFix.efi
 - DataHubDxe.efi
-- EmuVariableUefi.efi
 - FSInject.efi
 - VBoxHfs.efi
 ## kexts\Other
@@ -36,6 +35,7 @@
 - IntelCPUMonitor.kext
 - IntelMausiEthernet.kext
 - Lilu.kext
+- NVMeFix.kext
 - RadeonMonitor.kext
 - RealtekRTL8111.kext
 - SMCBatteryManager.kext
@@ -43,7 +43,6 @@
 - VirtualSMC.kext
 - VoodooBatterySMC.kext
 - VoodooPS2Controller.kext
-- VoodooTSCSync.kext
 - WhateverGreen.kext
 
 ### If the file is not in the bootloader, it will not be updated.
