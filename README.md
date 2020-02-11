@@ -2,8 +2,8 @@
 ### Our Progects:
 #### Hackintosh Builds - [link](http://ihackline.com)
 #### VK - [link](https://vk.com/ustanovkamacos)
-## Simple update bootloader Clover
-### Утилита автоматического обновления загрузчика Clover
+## Simple update bootloader Clover and kext's
+### Утилита автоматического обновления загрузчика Clover и kext's
 
 - Download App for UEFI boot - updater.zip
 - Download App for Legacy boot - updater_legacy.zip
