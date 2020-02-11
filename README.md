@@ -25,7 +25,7 @@
 - DataHubDxe.efi
 - FSInject.efi
 - VBoxHfs.efi
-## kexts\Other
+## kexts
 - AirportBrcmFixup.kext
 - AppleALC.kext
 - AtherosE2200Ethernet.kext
