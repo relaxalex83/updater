@@ -41,9 +41,4 @@
 - SMCBatteryManager.kext
 - SMCProcessor.kext
 - VirtualSMC.kext
-- VoodooBatterySMC.kext
-- VoodooPS2Controller.kext
 - WhateverGreen.kext
-
-### If the file is not in the bootloader, it will not be updated.
-### Если файл отсутствует в загрузчике, он не будет обновлён.
