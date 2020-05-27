@@ -41,4 +41,5 @@
 - SMCBatteryManager.kext
 - SMCProcessor.kext
 - VirtualSMC.kext
+- VoodooPS2Controller.kext
 - WhateverGreen.kext
