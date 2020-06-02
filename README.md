@@ -39,6 +39,7 @@
 - RadeonMonitor.kext
 - RealtekRTL8111.kext
 - SMCBatteryManager.kext
+- SMCLightSensor.kext
 - SMCProcessor.kext
 - VirtualSMC.kext
 - VoodooPS2Controller.kext
