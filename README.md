@@ -24,6 +24,8 @@
 - AptioMemoryFix.efi
 - DataHubDxe.efi
 - FSInject.efi
+- OcQuirks.efi
+- OpenRuntime.efi
 - VBoxHfs.efi
 ## kexts
 - AirportBrcmFixup.kext
