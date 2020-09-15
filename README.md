@@ -24,8 +24,10 @@
 - AptioMemoryFix.efi
 - DataHubDxe.efi
 - FSInject.efi
-- OcQuirks.efi
-- OpenRuntime.efi
+- OcQuirks.efi - Slice Quirks
+- OcQuirksRD.efi - ReddestDream Quirks
+- OpenRuntime.efi - Slice Quirks
+- OpenRuntimeRD.efi - ReddestDream Quirks
 - VBoxHfs.efi
 ## kexts
 - AirportBrcmFixup.kext
