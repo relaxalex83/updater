@@ -33,7 +33,6 @@
 - AirportBrcmFixup.kext
 - AppleALC.kext
 - AtherosE2200Ethernet.kext
-- BT4LEContinuityFixup.kext
 - FakeSMC.kext
 - IntelMausiEthernet.kext
 - Lilu.kext
