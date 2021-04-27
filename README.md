@@ -1,42 +1,23 @@
-# Updater
 ### Our Progects:
 #### Hackintosh Builds - [link](http://ihackline.com)
 #### VK - [link](https://vk.com/ustanovkamacos)
-## Simple update bootloader Clover and kext's
-### Утилита автоматического обновления загрузчика Clover и kext's
 
-- Download App for UEFI boot - updater.zip
-- Download App for Legacy boot - updater_legacy.zip
+#### Обновление загрузчика (Clover): https://ihackline.com/2020/11/13/macos-big-sur-11-0-1/
+#### Обновление загрузчика (OpenCore): https://ihackline.com/2020/12/23/ocupdatetool/
 
-### What does the utility compare and automatically update?
-
-## BOOT
-- BOOTX64.efi - bootloader Clover (UEFI)
-## CLOVER
-- CLOVERX64.efi - bootloader Clover (Legacy)
-## drivers
-### BIOS
-- ApfsDriverLoader.efi
-- FSInject.efi
-- VBoxHfs.efi
-### UEFI
-- ApfsDriverLoader.efi
-- AptioMemoryFix.efi
-- DataHubDxe.efi
-- FSInject.efi
-- OcQuirks.efi - Slice Quirks
-- OcQuirksRD.efi - ReddestDream Quirks
-- OpenRuntime.efi - Slice Quirks
-- OpenRuntimeRD.efi - ReddestDream Quirks
-- VBoxHfs.efi
-## kexts
+### UPDATE.zip contain latest kexts:
 - AirportBrcmFixup.kext
 - AppleALC.kext
 - AtherosE2200Ethernet.kext
 - FakeSMC.kext
+- GeforceSensor.kext
+- IntelCPUMonitor.kext
+- IntelMausi.kext
 - IntelMausiEthernet.kext
 - Lilu.kext
+- LucyRTL8125Ethernet.kext
 - NVMeFix.kext
+- RadeonMonitor.kext
 - RealtekRTL8111.kext
 - SMCBatteryManager.kext
 - VirtualSMC.kext
