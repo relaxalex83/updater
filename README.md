@@ -9,8 +9,10 @@
 - AirportBrcmFixup.kext
 - AppleALC.kext
 - AtherosE2200Ethernet.kext
+- CpuTscSync.kext
 - FakeSMC.kext
 - GeforceSensor.kext
+- HibernationFixup.kext
 - IntelCPUMonitor.kext
 - IntelMausi.kext
 - IntelMausiEthernet.kext
@@ -20,6 +22,7 @@
 - RadeonMonitor.kext
 - RealtekRTL8111.kext
 - SMCBatteryManager.kext
+- SMCLightSensor.kext
 - VirtualSMC.kext
 - VoodooPS2Controller.kext
 - WhateverGreen.kext
