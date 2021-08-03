@@ -9,6 +9,7 @@
 - AirportBrcmFixup.kext
 - AppleALC.kext
 - AtherosE2200Ethernet.kext
+- CPUFriend.kext
 - CpuTscSync.kext
 - FakeSMC.kext
 - GeforceSensor.kext
