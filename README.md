@@ -13,7 +13,6 @@
 - CpuTscSync.kext
 - FakeSMC.kext
 - GeforceSensor.kext
-- HibernationFixup.kext
 - IntelCPUMonitor.kext
 - IntelMausi.kext
 - IntelMausiEthernet.kext
