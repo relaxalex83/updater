@@ -12,7 +12,6 @@
 - CPUFriend.kext
 - CpuTscSync.kext
 - FakeSMC.kext
-- GeforceSensor.kext
 - IntelCPUMonitor.kext
 - IntelMausi.kext
 - IntelMausiEthernet.kext
