@@ -20,6 +20,7 @@
 - NVMeFix.kext
 - RadeonMonitor.kext
 - RealtekRTL8111.kext
+- RestrictEvents.kext
 - SMCBatteryManager.kext
 - SMCLightSensor.kext
 - VirtualSMC.kext
