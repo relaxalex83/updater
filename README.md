@@ -8,6 +8,7 @@
 ### UPDATE.zip contain latest kexts:
 - AirportBrcmFixup.kext
 - AppleALC.kext
+- AppleALCU.kext
 - AtherosE2200Ethernet.kext
 - CPUFriend.kext
 - CpuTscSync.kext
