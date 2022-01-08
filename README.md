@@ -16,6 +16,7 @@
 - IntelCPUMonitor.kext
 - IntelMausi.kext
 - IntelMausiEthernet.kext
+- IntelMCHMonitor.kext
 - Lilu.kext
 - LucyRTL8125Ethernet.kext
 - NVMeFix.kext
