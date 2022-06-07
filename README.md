@@ -9,6 +9,9 @@
 - AirportBrcmFixup.kext
 - AppleALC.kext
 - AppleALCU.kext
+- BlueToolFixup.kext
+- BrcmFirmwareData.kext
+- BrcmPatchRAM3.kext
 - AtherosE2200Ethernet.kext
 - CPUFriend.kext
 - CpuTscSync.kext
