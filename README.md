@@ -1,8 +1,8 @@
-### Our Progects:
+#### Telegram - [link](https://t.me/ihackline)
 #### Hackintosh Builds - [link](http://ihackline.com)
 #### VK - [link](https://vk.com/ustanovkamacos)
 
-#### Обновление загрузчика (Clover): https://ihackline.com/2020/11/13/macos-big-sur-11-0-1/
+#### Обновление загрузчика (Clover): https://ihackline.com/2021/06/18/install-and-update-macos-monterey-12/
 #### Обновление загрузчика (OpenCore): https://ihackline.com/2020/12/23/ocupdatetool/
 
 ### UPDATE.zip contain latest kexts:
