@@ -26,7 +26,10 @@
 - RealtekRTL8111.kext
 - RestrictEvents.kext
 - SMCBatteryManager.kext
+- SMCDellSensors.kext
 - SMCLightSensor.kext
+- SMCProcessor.kext
+- SMCSuperIO.kext
 - VirtualSMC.kext
 - VoodooPS2Controller.kext
 - WhateverGreen.kext
