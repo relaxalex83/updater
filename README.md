@@ -16,6 +16,7 @@
 - CPUFriend.kext
 - CpuTscSync.kext
 - FakeSMC.kext
+- HibernationFixup.kext
 - IntelCPUMonitor.kext
 - IntelMausi.kext
 - IntelMausiEthernet.kext
