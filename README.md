@@ -12,6 +12,7 @@
 - BlueToolFixup.kext
 - BrcmFirmwareData.kext
 - BrcmPatchRAM3.kext
+- BrightnessKeys.kext
 - AtherosE2200Ethernet.kext
 - CPUFriend.kext
 - CpuTscSync.kext
