@@ -16,6 +16,7 @@
 - AtherosE2200Ethernet.kext
 - CPUFriend.kext
 - CpuTscSync.kext
+- ECEnabler.kext
 - FakeSMC.kext
 - HibernationFixup.kext
 - IntelCPUMonitor.kext
