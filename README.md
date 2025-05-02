@@ -2,8 +2,8 @@
 #### Hackintosh Builds - [link](http://ihackline.com)
 #### VK - [link](https://vk.com/ustanovkamacos)
 
-#### Обновление загрузчика (Clover): https://ihackline.com/2021/06/18/install-and-update-macos-monterey-12/
-#### Обновление загрузчика (OpenCore): https://ihackline.com/2020/12/23/ocupdatetool/
+#### Обновление загрузчика (Clover): https://ihackline.com/update-clover-and-opencore/
+#### Обновление загрузчика (OpenCore): https://ihackline.com/ocupdatetool/
 
 ### UPDATE.zip contain latest kexts:
 - AirportBrcmFixup.kext
